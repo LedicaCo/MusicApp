@@ -1,0 +1,18 @@
+.navbarBrand {
+    color: #ffd700 !important;
+    display: flex;
+    align-items: center;
+}
+
+.bx-podcast {
+    font-size: 1.5em;
+}
+
+.songs__title {
+    color: #ffd700 !important;
+}
+
+.navItem:hover {
+    color: #ffd700 !important;
+}
+    
